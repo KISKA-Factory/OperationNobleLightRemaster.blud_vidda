@@ -8,6 +8,7 @@
 
 class KISKA_Bases
 {
+    #include "NatoBase.hpp"
     class aBase
     {
         side = SIDE_OPFOR;

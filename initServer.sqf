@@ -1,0 +1,1 @@
+["Natobase"] call KISKA_fnc_bases_createFromConfig;
